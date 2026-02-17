@@ -2,7 +2,7 @@
 OSINT Tool: Generate username lists from companies on LinkedIn.
 
 This is a pure web-scraper, no API key required. You use your valid LinkedIn username and password to login, it will create several lists of possible username formats for all employees of a company you point it at.
-
+! [image alt] (https://github.com/Tutorials-Lab/linkedin2username/blob/21ea2d38568e813f4726c93fb2d24cbe924dd6af/dog.jfif)
 Here's what you get:
 - first.last.txt: Usernames like Joe.Schmoe
 - f.last.txt:     Usernames like J.Schmoe
